@@ -1,4 +1,4 @@
-# Nashville-Real-Estate-Analysis
+# Nashville Real Estate Analysis
 This project utilized a dataset with Housing Sales information for property sales in and around the Nashville, TN area. I was inspired to do this project due to my recent interest in the housing market, and it's continuing unaffordability here for many in the city of Toronto. Though a dataset with this particular information didn't exist for Toronto, I was happy to find a dataset that focused in on another major city in North America.
 
 Diving into the project scope, the dataset was first uploaded into SQL and subsequently queried to extract key information. Following the query analysis, a Tableau visualization was created using filtered and queried data to present some of the key findings from the dataset.
